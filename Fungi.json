@@ -1,0 +1,37 @@
+{
+	"food": {
+		"items": [
+			"animania:chocolate_truffle",
+			"animania:super_omelette",
+			"animania:truffle",
+			"animania:truffle_omelette",
+			"animania:truffle_soup",
+			"biomesoplenty:shroompowder",
+			"minecraft:mushroom_stew",
+			"harvestcraft:baconmushroomburgeritem",
+			"harvestcraft:beefwellingtonitem",
+			"harvestcraft:cantonesenoodlesitem",
+			"harvestcraft:chickencelerycasseroleitem",
+			"harvestcraft:cookedtofeakitem",
+			"harvestcraft:cookedtofenisonitem",
+			"harvestcraft:dimsumitem",
+			"harvestcraft:gourmetmuttonburgeritem",
+			"harvestcraft:greenbeancasseroleitem",
+			"harvestcraft:grilledmushroomitem",
+			"harvestcraft:hotandsoursoupitem",
+			"harvestcraft:mushroomlasagnaitem",
+			"harvestcraft:mushroomrisottoitem",
+			"harvestcraft:mushroomsteakitem",
+			"harvestcraft:pizzasoupitem",
+			"harvestcraft:rawtofeakitem",
+			"harvestcraft:rawtofenisonitem",
+			"harvestcraft:salsaitem",
+			"harvestcraft:slimepieitem",
+			"harvestcraft:stuffedmushroomitem",
+			"harvestcraft:vegetablesoupitem",
+			"harvestcraft:whitemushroomitem"
+		]
+	},
+	"name": "Fungi",
+	"color": "light_purple"
+}
